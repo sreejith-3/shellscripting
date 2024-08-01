@@ -1,0 +1,8 @@
+// Print a specific column from a file. 
+
+// Here this command is not using any separator over here. it is using "space" as the seperator.
+
+awk '{print $1} <file_name>
+
+awk '{print $2} <file_name>  $2 means second column in the file
+
