@@ -1,0 +1,1 @@
+sed '/Meganathan/s/Australia/Middle East/' test-file.txt

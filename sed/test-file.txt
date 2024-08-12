@@ -1,4 +1,4 @@
-Name	Phone	Email	City
+Name	        Phone	        Email	                City
 firstman    9800909000  firstman@gmail.com
 Sreejith 	7898980090	sreejith.sbk@gmail.com	London
 Sreejith 	7898980090	sreejith.sbk@gmail.com	London
