@@ -1,0 +1,1 @@
+sed -n '42,44p' test-file.txt

@@ -1,0 +1,1 @@
+sed -n '/[Mm]eganathan/p' test-file.txt  # -[Mm] ignores cases senstive 
