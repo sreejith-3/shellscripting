@@ -1,3 +1,3 @@
-sed 's/^/# /' test-file.txt > check-file.txt
+sed 's/^/# /' test-file.txt > test-file1.txt
 echo "======================================================"
-sed '3,5s/^/# /' test-file.txt > check-file1.txt
+sed '3,5s/^/# /' test-file.txt > test-file1.txt
